@@ -1,0 +1,19 @@
+html{
+    background:url('tembok.png')no-repeat center fixed;
+    -webkit-background-size:cover;
+    -moz-background:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    }
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+table{
+    border-collapse: collapse;
+    font-size:12pt;
+    border:1px solid #000000
+    }
+td{
+    padding:3px;
+    height:25px;
+    }
